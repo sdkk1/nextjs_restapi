@@ -58,7 +58,8 @@ MIDDLEWARE = [
 ]
 
 CORS_ORIGIN_WHITELIST = [
-    "http://localhost:3000"
+    "http://localhost:3000",
+    "https://nextjs-blog-alpha-one-79.vercel.app"
 ]
 
 SIMPLE_JWT = {
